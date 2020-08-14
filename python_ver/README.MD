@@ -1,8 +1,6 @@
 # crawling-mma.go.kr
-# go 1.14
-# require (github.com/tealeg/xlsx v1.0.5 github.com/PuerkitoBio/goquery v1.5.1)
-~~# python 3.7.1~~
-~~# require requests, bs4, html5lib, time, pandas, xlsxwriter~~
+# python 3.7.1
+# require requests, bs4, html5lib, time, pandas, xlsxwriter
 
 A crawling code that allows a military service designated company registered in a military service diary to search for a company name, fax number and address in accordance with a specific filter.
 
